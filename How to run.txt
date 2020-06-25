@@ -1,0 +1,2 @@
+Put the setup in a new folder, and right click on it (the folder).
+Then change the permissions on it to only your user account.Then run the setup.
